@@ -1,5 +1,5 @@
 {
-	"name": "@bac-dam-1991/re-form",
+	"name": "@bac-dam-1991/reform",
 	"version": "0.0.2",
 	"description": "React Form Management library",
 	"main": "dist/index.js",
